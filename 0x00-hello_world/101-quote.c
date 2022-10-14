@@ -1,7 +1,6 @@
 #include <stdio.h>
-/*
- * 
- * main - prints a quote by Dora Korpar to standard error
+/**
+ * main - Prints a quote by Dora Korpar to standard error
  *
  * Return: 0 if program runs without error
  */

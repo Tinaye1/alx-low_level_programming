@@ -2,10 +2,6 @@
 #include <stdio.h>
 #include <time.h>
 
-/**
- * main - Prints alphabet
- * 
- */
 int main(void)
 {
 	char letter = 'a';

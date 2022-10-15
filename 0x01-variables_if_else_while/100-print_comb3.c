@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
 * main-prints 00-99 numbers
-*  
 * Return: 0
 * description- prints unique combination of 2 numbers
 */

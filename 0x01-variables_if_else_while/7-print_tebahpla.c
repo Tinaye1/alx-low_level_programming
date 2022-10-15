@@ -2,11 +2,10 @@
 #include <stdio.h>
 #include <time.h>
 /**
- * main prints alphabets
+ * main-prints base 16 numbers
  *
- * description- prints the alphabet in reverse order
- *
- * Return:0
+ * Return: 0
+ * description- prints hexadecimals
  */
 int main(void)
 {

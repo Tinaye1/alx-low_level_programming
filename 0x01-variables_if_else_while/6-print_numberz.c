@@ -2,10 +2,12 @@
 #include <stdio.h>
 #include <time.h>
 /**
- * main print base 10 numbers
- *
- * Return:0
- */
+* main-prints base 10 numbers
+*
+* Return:0 
+* description- prints hexadecimals
+*
+*/
 int main(void)
 {
 	int num = 48;

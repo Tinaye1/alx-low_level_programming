@@ -1,11 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
 /**
- * main print base 10 numbers
+ * main-prints base 16 numbers
  *
- * return:0 for success
+ * Return: 0
+ * description- prints hexadecimals
  */
 int main(void)
 {

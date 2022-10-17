@@ -1,7 +1,13 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
+/**
+ *
+ * main-prints base 16 numbers
+ *
+ * Return: 0
+ * description- prints hexadecimals
+ */
 int main(void)
 {
 	char letter = 'a';
@@ -13,5 +19,5 @@ int main(void)
 	}
 
 	putchar('\n');
-	return(0);
+	return (0);
 }

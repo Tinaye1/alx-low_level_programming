@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <time.h>
 /**
- *
  * main-prints base 16 numbers
  *
  * Return: 0

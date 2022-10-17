@@ -7,7 +7,8 @@
  * Return: 0
  * description- prints hexadecimals
  */
-int main(void){
+int main(void) 
+{
 
 	char letter = 'a';
 	

@@ -7,10 +7,19 @@
  * Return: 1 lowercase and otherwise
  **/
 
-int test_islower(int c){
+void test_islower(int n)
+{
+	int r;
 
-	if(c >= 97 && c <= 122)
-		return (1);
-	else
-		return(0);
+r = _islower(n);
+_putchar(r + '0');
+_putchar('\n');
+
+
 }
+int main(void)
+{
+	test_islower'H'
+		return (0);
+}
+

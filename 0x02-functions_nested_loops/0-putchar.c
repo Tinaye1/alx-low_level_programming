@@ -1,4 +1,5 @@
 #include <unistd.h>
+#include <main.h>
 /**
  * main-prints putchar
  * description:prints putchar and new line

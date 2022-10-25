@@ -2,24 +2,16 @@
 
 /**
  *
- * _islower returns 1 cahr is lowercase
+ * _islower returns 1 char is lowercase
  *
  * Return: 1 lowercase and otherwise
  **/
 
-void test_islower(int n)
+int _islower(int n)
 {
-	int r;
-
-r = _islower(n);
-_putchar(r + '0');
-_putchar('\n');
-
-
-}
-int main(void)
-{
-	test_islower'H'
+	if (c >= 'a' && c <= 'z')
+		return (1);
+	else
 		return (0);
 }
 

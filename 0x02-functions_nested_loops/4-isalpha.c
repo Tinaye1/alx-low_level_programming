@@ -7,7 +7,7 @@
  * Return:1 if letter otherwise 0
  **/
 
-int _isalpha(int c)
+int _isalpha(int n)
 {
 	if ((n <= 90) && (c >= 65))
 		return (1);

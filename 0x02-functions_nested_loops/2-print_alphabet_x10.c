@@ -20,14 +20,11 @@ _putchar('\n);
 void print_alphabet_x10(void)
 {
 
-char i;
+int i;
 
-for(i = '0';i <= '9'; i++)
+for (i = '0';i <= '9'; i++)
 {
-print_alphabet_x10();
+print_alphabet();
 }
-
-return (0);
-
 }
 

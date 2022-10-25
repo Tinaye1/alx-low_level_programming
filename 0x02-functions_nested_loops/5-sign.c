@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 * print_sign - prints a sign of a number
-*@n:The number of which the sign will be printed 
+*@n:The number of which the sign will be printedi
 *
 * Return: 1 if number is greater than 0
 *	0 if number is 0,

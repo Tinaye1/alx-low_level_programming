@@ -28,15 +28,15 @@ void print_times_table(int n)
 				{
 					putchar(' ');
 					putchar(' ');
-					putchar((prod % 10) +'0');
+					putchar((product % 10) +'0');
 				}
 				else if (product >= 10 && product < 100)
 				{
 					putchar(' ');
 					putchar((product / 10) + '0');
 					putchar((product % 10) + '0');
-					else if (product >= 100 && x != 0)
-					{
+				}
+				else if (product >= 100 && x != 0) {
 						putchar((product / 100) + '0');
 						putchar((product / 10) % 10 + '0');
 						putchar((product % 10) + '0');

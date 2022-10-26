@@ -26,25 +26,25 @@ void print_times_table(int n)
 				}
 				if (product < 10 && x != 0)
 				{
-					_putchar(' ');
-					_putchar(' ');
-					_putchar((prod % 10) +'0');
+					putchar(' ');
+					putchar(' ');
+					putchar((prod % 10) +'0');
 				}
 				else if (product >= 10 && product < 100)
 				{
-					_putchar(' ');
-					_putchar((product / 10) + '0');
-					_putchar((product % 10) + '0');
+					putchar(' ');
+					putchar((product / 10) + '0');
+					putchar((product % 10) + '0');
 					else if (product >= 100 && x != 0)
 					{
-						_putchar((product / 100) + '0');
-						_putchar((product / 10) % 10 + '0');
-						_putchar((product % 10) + '0');
+						putchar((product / 100) + '0');
+						putchar((product / 10) % 10 + '0');
+						putchar((product % 10) + '0');
 					}
 					else
-						_putchar((product % 10) + '0');
+						putchar((product % 10) + '0');
 				}
-				_putchar('\n');
+				putchar('\n');
 			}
 		}
 	}

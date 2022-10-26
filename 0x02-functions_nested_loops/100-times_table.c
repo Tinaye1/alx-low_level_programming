@@ -21,8 +21,8 @@ void print_times_table(int n)
 				product = (y * x);
 				if (x != 0)
 				{
-					_putchar(',');
-					_putchar(' ');
+					putchar(',');
+					putchar(' ');
 				}
 				if (product < 10 && x != 0)
 				{

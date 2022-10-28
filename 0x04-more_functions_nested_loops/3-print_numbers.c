@@ -3,10 +3,11 @@
  * print_numbers - prints numbers between 0 and 9
  *
  * @i -int to be tested
+ * Return: nothing
  **/
 void print_numbers(void)
 {
-int i;
+char i;
 
 for (i = 0; i < 9; i++)
 {

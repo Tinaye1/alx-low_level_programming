@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- *
  * _strcat -concatenates two strings
  * @src:second string to copy
  * @dest:string to be overwritten

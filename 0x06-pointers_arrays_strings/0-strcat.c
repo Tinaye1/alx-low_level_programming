@@ -1,9 +1,13 @@
 #include "main.h"
 /**
  * _strcat -concatenates two strings
+ *
  * @src:second string to copy
+ *
  * @dest:string to be overwritten
+ *
  * description: concatenates src and the end of dest
+ *
  * Return:pointer to dest
  **/
 
